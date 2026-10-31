@@ -83,7 +83,7 @@ app.layout = html.Div([
                          style={"minWidth": 0}),
             ], className="topbar-izq"),
             html.Div([
-                html.Div([html.I(className="bi bi-calendar3"), "2014 – 2018"], className="topbar-chip mono"),
+                html.Div([html.I(className="bi bi-calendar3"), "2014 – 2017 · proyección 2018"], className="topbar-chip mono"),
                 html.Div([html.Span(className="topbar-punto"), "EDA + machine learning"], className="topbar-chip"),
             ], className="topbar-der"),
         ], className="topbar"),
